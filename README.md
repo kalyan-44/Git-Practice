@@ -1,2 +1,2 @@
 This is Empty
-This is make for merge conflicts
+This is an example for merge conflicts
